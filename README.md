@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ➡️ Experienced Full Stack Flutter Developer with a strong background in computer science and mobile app development.
+## ➡️ Experienced Full Stack Flutter Developer with a strong background in computer science and mobile app development.
 
-# ➡️ Proficient in Flutter, Dart, and other web technologies such as HTML, CSS, and JavaScript.
+## ➡️ Proficient in Flutter, Dart, and other web technologies such as HTML, CSS, and JavaScript.
 
-# ➡️ Passionate about creating visually appealing and user-friendly apps for both iOS and Android platforms.
+## ➡️ Passionate about creating visually appealing and user-friendly apps for both iOS and Android platforms.
 
-# ➡️ Skilled in agile development methodologies and able to work effectively in a team environment.
+## ➡️ Skilled in agile development methodologies and able to work effectively in a team environment.
 
-# ➡️ Seeking new challenges and opportunities to leverage my skills and contribute to the success of a company or project.
+## ➡️ Seeking new challenges and opportunities to leverage my skills and contribute to the success of a company or project.
 
