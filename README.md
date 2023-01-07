@@ -19,10 +19,10 @@
 <!--START_SECTION:update_image-->
 <!--END_SECTION:update_image-->
 </a>
+ ![—Pngtree—linkedin social media icon design_3654769](https://user-images.githubusercontent.com/84194609/211128917-3f003ce3-459f-4a87-a3a0-f6837faff712.png)
 
 <a href="https://www.linkedin.com/in/ankit-gupta-b97378227/">
 <!--START_SECTION:update_image-->
- ![—Pngtree—linkedin social media icon design_3654769](https://user-images.githubusercontent.com/84194609/211128917-3f003ce3-459f-4a87-a3a0-f6837faff712.png)
 
 <!--END_SECTION:update_image-->
 </a>
